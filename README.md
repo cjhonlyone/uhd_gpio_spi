@@ -1,4 +1,4 @@
-## Using USRP X310 Front GPIO as SPI Interface
+## Using USRP X310 Front GPIO as SPI Interface (Write Only)
 
 This project demonstrates how to use the front-panel GPIO pins of the USRP X310 to emulate an SPI interface. The SPI communication leverages UHD timed commands and RFNoC blocks to drive GPIO signals at precise intervals.
 
